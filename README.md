@@ -14,7 +14,7 @@
 <ul>
 <li>NodeJS</li>
 <li>Express</li>
-<li>MongoDB 3.3.7</li>
+<li>MongoDB</li>
 </ul>
 <h2>NOTES / NOTAS :</h2>
 <h3>THIS PROJECT IS ONLY FOR DEMONSTRATION, IT IS NOT ANTIBUG / ESTE PROJETO É APENAS DEMONSTRATIVO, NÃO É À PROVA DE BUGS</h3>
